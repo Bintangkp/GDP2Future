@@ -63,4 +63,5 @@ To get a local copy up and running follow these simple example steps.
 👨‍💻 GitHub: github.com/Bintangkp
 
 
-Project Link: https://github.com/Bintangkp/Web-Scrapping-Bukalapak
+Project Link: 
+https://github.com/Bintangkp/GDP2Future
